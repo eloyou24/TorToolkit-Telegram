@@ -8,7 +8,7 @@ except:
         API_HASH = "600419c43e87e3a15fb58378d8ab648c"
         API_ID = 4277993
         BOT_TOKEN = "1862661082:AAEa6krqI30k53eXnFomcRvuNhlsp7k7eCk"
-        BASE_URL_OF_BOT = "t.me/EloyouTor_bot"
+        BASE_URL_OF_BOT = "http://120.89.46.70"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80

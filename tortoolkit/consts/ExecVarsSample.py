@@ -8,7 +8,7 @@ except:
         API_HASH = "600419c43e87e3a15fb58378d8ab648c"
         API_ID = 4277993
         BOT_TOKEN = "1862661082:AAEa6krqI30k53eXnFomcRvuNhlsp7k7eCk"
-        BASE_URL_OF_BOT = "http://120.89.46.70"
+        BASE_URL_OF_BOT = "t.me/EloyouTor_bot"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
@@ -36,10 +36,10 @@ except:
         REMAINING_STR = "▱"
 
         # DB URI for access
-        #DB_URI = "dbname=tortk user=postgres password=your-pass host=127.0.0.1 port=5432"
+        DB_URI = "dbname=tortk user=postgres password=your-pass host=127.0.0.1 port=5432"
         
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
-        DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
+        #DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
         
         # The base direcory to which the files will be upload if using RCLONE
         RCLONE_BASE_DIR = "/"
